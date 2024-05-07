@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Archit</h1>
-<h3 align="center">A passionate designer and developer from Delhi.</h3>
+<h3 align="center"I’m Archit, a 19-year-old designer and developer hailing from Delhi. Currently pursuing my B.Tech at USICT, GGSIPU, I’m deeply passionate about crafting immersive digital experiences. Beyond coding,.</h3>
 
 - 🌱 I’m currently learning **Javascript**
 
