@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Archit</h1>
 <h3 align="center">I’m Archit, a 19-year-old designer and developer hailing from Delhi. Currently pursuing my B.Tech at USICT, GGSIPU, I’m deeply passionate about crafting immersive digital experiences.</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **MERN** Stack
 
 - 👨‍💻 All of my projects are available at [github.com/Archit80](github.com/Archit80)
 
