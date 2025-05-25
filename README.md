@@ -1,23 +1,107 @@
-<h1 align="center">Hi, I'm Archit</h1>
-<h3 align="center">I’m Archit, a 19-year-old designer and developer hailing from Delhi. Currently pursuing my B.Tech at USICT, GGSIPU, I’m deeply passionate about crafting immersive digital experiences.</h3>
+<!-- README.md -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archit80&label=Profile%20views&color=0e75b6&style=flat" alt="archit80" /> </p>
+<div align="center">
+  <h1>Hi, I'm Archit 👾</h1>
+  
+  <p><i>Making pretty things work and working things pretty</i></p>
+</div>
 
-- 🌱 I’m currently learning **MERN** Stack
+---
 
-- 👨‍💻 All of my projects are available at [github.com/archit80](github.com/archit80)
+### 🧠 brain.exe is running...
 
-- 📫 How to reach me **archittaneja80@gmail.com**
+```json
+{
+  "name": "Archit",
+  "age": 20,
+  "role": "Designer-Developer Hybrid",
+  "location": "Delhi, India",
+  "education": {
+    "degree": "B.Tech",
+    "institute": "USICT, GGSIPU"
+  },
+  "stack": [
+    "MERN",
+    "Figma",
+    "Git",
+    "Next.js",
+    "Firebase",
+  ],
+  "about": "I build sleek UIs powered by clean, scalable code.",
+  "status": "Always shipping, always learning.",
+  "funFact": "Uptime: 99.9% — drops slightly when the UI won't align"
+}
+```
+---
 
-- ⚡ Fun fact **I think I am funny**
+### ⚡ Tech Stack: Like a buffet, but spicy
 
-<h3 align="left">Connect with me:</h3>
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cpp)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Framer](https://img.shields.io/badge/-Framer-black?style=flat-square&logo=framer)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+
+---
+
+### 🌐 Let's vibe online
+
 <p align="left">
-<a href="https://linkedin.com/in/archit80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archit80" height="30" width="40" /></a>
-<a href="https://instagram.com/archit.mp4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="archit.mp4" height="30" width="40" /></a>
-<a href="https://www.behance.net/archit80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="archit80" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/archittaneja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="archittaneja" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/archit80" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/archit.mp4" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.behance.net/archit80" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/archittaneja" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+### ✨ Fun Facts:
+
+- 💻 Spent more hours tweaking the UI than writing the backend. 
+- 🎯 I code, I design, I engineer... and somehow still forget semicolons.
+- 😵‍💫 If memes were a language, I'd be full-stack fluent.  
+
+
+
+---
+
+### 🔥 Streaks & Stats (because we love validation)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=archit80&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=archit80&theme=tokyonight" />
+</p>
+
+---
+
+### 🧙‍♂️ One last thing...
+
+> "In a world full of bugs, be the debugger." – *some wise stack overflow user probably*
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200px" />
+  <p><i>see you in the commit history 🚀</i></p>
+</div>
